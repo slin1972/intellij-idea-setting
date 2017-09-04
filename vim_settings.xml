@@ -3,9 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/javaproject/offline-sapi/src/main/java/com/shanhs/offline/risk/service/BrokenScreenService.java" timestamp="1504490956401">
+      <file name="D:/javaproject/offline-sapi/src/main/java/com/shanhs/offline/risk/service/BrokenScreenService.java" timestamp="1504491432012">
         <mark key="'" line="239" column="4" />
-        <mark key="[" line="228" column="12" />
+        <mark key="[" line="227" column="10" />
         <mark key="]" line="228" column="11" />
         <mark key="^" line="228" column="11" />
         <mark key="." line="239" column="277" />
