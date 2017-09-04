@@ -24,11 +24,11 @@
         <mark key="]" line="69" column="100" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/javaproject/offline-sapi/src/main/java/com/shanhs/offline/service/ChannelService.java" timestamp="1504493306301">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="54" column="24" />
-        <mark key="^" line="54" column="24" />
-        <mark key="." line="54" column="24" />
+      <file name="D:/javaproject/offline-sapi/src/main/java/com/shanhs/offline/service/ChannelService.java" timestamp="1504495159692">
+        <mark key="[" line="25" column="46" />
+        <mark key="]" line="25" column="45" />
+        <mark key="^" line="25" column="45" />
+        <mark key="." line="25" column="45" />
       </file>
       <file name="D:/javaproject/shs-pay-api/src/main/java/com/shanhs/pay/constants/PayStatus.java" timestamp="1504494149084">
         <mark key="[" line="4" column="2" />
@@ -88,6 +88,9 @@
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLCBATm90QmxhbmsgU3RyaW5nIG9yZGVyTm8K</text>
       </register>
+      <register name=":" type="4">
+        <text>47</text>
+      </register>
     </registers>
     <search>
       <last-search>list</last-search>
@@ -100,6 +103,9 @@
       <history-search>
         <entry>list</entry>
       </history-search>
+      <history-cmd>
+        <entry>47</entry>
+      </history-cmd>
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
