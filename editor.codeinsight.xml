@@ -1,5 +1,0 @@
-<application>
-  <component name="CodeInsightSettings">
-    <EXCLUDED_PACKAGE NAME="javax.xml.bind.Element" />
-  </component>
-</application>
