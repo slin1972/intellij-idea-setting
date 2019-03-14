@@ -1,3 +1,3 @@
 <templateSet group="user">
-  <template name="try... catch..." value="try{&#10;}catch(Exception e){&#10;}" toReformat="false" toShortenFQNames="true" />
+  <template name="try... catch..." value="try{&#10;}catch(Exception e){&#10;}" description="" toReformat="false" toShortenFQNames="true" />
 </templateSet>
