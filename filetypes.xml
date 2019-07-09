@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="bootstrap" type="PLAIN_TEXT" />
+      <mapping pattern="mall-sku-record" type="PLAIN_TEXT" />
       <mapping ext="temp" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
