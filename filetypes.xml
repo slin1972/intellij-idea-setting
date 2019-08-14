@@ -2,6 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="bootstrap" type="PLAIN_TEXT" />
+      <mapping pattern="stat-prd" type="PLAIN_TEXT" />
+      <mapping pattern="bsb-prd" type="PLAIN_TEXT" />
+      <mapping pattern="analysis-prd" type="PLAIN_TEXT" />
       <mapping pattern="mall-sku-record" type="PLAIN_TEXT" />
       <mapping ext="temp" type="PLAIN_TEXT" />
     </extensionMap>
