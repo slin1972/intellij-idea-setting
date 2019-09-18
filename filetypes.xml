@@ -8,6 +8,7 @@
       <mapping pattern="analysis-prd" type="PLAIN_TEXT" />
       <mapping pattern="mall-sku-record" type="PLAIN_TEXT" />
       <mapping ext="temp" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
