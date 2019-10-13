@@ -4,10 +4,11 @@
       <mapping pattern="bootstrap" type="PLAIN_TEXT" />
       <mapping pattern="stat-prd" type="PLAIN_TEXT" />
       <mapping pattern="all" type="PLAIN_TEXT" />
-      <mapping pattern="es-log-mapping" type="PLAIN_TEXT" />
+      <mapping pattern="mall-sku-record" type="PLAIN_TEXT" />
       <mapping pattern="bsb-prd" type="PLAIN_TEXT" />
       <mapping pattern="analysis-prd" type="PLAIN_TEXT" />
-      <mapping pattern="mall-sku-record" type="PLAIN_TEXT" />
+      <mapping pattern="es-log-mapping" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="temp" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
     </extensionMap>
