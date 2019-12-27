@@ -10,8 +10,8 @@
       <mapping pattern="es-log-mapping" type="PLAIN_TEXT" />
       <mapping pattern="analysis-prd" type="PLAIN_TEXT" />
       <mapping pattern="第三方询价" type="PLAIN_TEXT" />
-      <mapping ext="md'" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="md'" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="temp" type="PLAIN_TEXT" />
     </extensionMap>
