@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="bootstrap" type="PLAIN_TEXT" />
+      <mapping pattern="sshkey" type="PLAIN_TEXT" />
       <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="通用参数" type="PLAIN_TEXT" />
       <mapping pattern="stat-prd" type="PLAIN_TEXT" />
